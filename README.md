@@ -1,7 +1,7 @@
 # Web components SEO
 ### Testing indexability of web components.
 
-This website tests how regular and custom HTML tags are indexed by Google under diferent circumstances.
+This website tests how regular and custom HTML tags are indexed by Google under different circumstances.
 
 
 ## Regular HTML

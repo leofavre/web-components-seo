@@ -32,4 +32,4 @@ This website tests how standard and custom HTML tags are indexed by Google under
 
 Google can always see static HTML content on the page, in standard or custom HTML tags.
 
-When it comes to Javascript-rendered content, Google completely ignores custom HTML tags, but not standard HTML tags.
+When it comes to Javascript-rendered content, Google completely ignores custom HTML tags but not standard ones.

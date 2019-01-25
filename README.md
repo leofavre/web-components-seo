@@ -6,11 +6,11 @@ This website tests how regular and custom HTML tags are indexed by Google under 
 
 ## Regular HTML
 
-| Content          | Link                                                                                    | Seen by Google? |
-|------------------|-----------------------------------------------------------------------------------------|-----------------|
-| static html      | [/html-static](https://leofavre.github.io/web-components-seo/html-static)               | yes             |
-| sync javascript  | [/html-dynamic-sync](https://leofavre.github.io/web-components-seo/html-dynamic-sync)   | yes             |
-| async javascript | [/html-dynamic-async](https://leofavre.github.io/web-components-seo/html-dynamic-async) | no              |
+| Content          | Link                                                                                    | Seen by Google |
+|------------------|-----------------------------------------------------------------------------------------|----------------|
+| static html      | [/html-static](https://leofavre.github.io/web-components-seo/html-static)               | yes            |
+| sync javascript  | [/html-dynamic-sync](https://leofavre.github.io/web-components-seo/html-dynamic-sync)   | yes            |
+| async javascript | [/html-dynamic-async](https://leofavre.github.io/web-components-seo/html-dynamic-async) | no             |
 
 
 ## Custom HTML

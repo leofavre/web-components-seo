@@ -4,7 +4,7 @@
 This website tests how regular and custom HTML tags are indexed by Google under diferent circumstances.
 
 
-### Regular HTML
+## Regular HTML
 
 | content          | link                                                                                    |
 |------------------|-----------------------------------------------------------------------------------------|
@@ -13,7 +13,7 @@ This website tests how regular and custom HTML tags are indexed by Google under 
 | async javascript | [/html-dynamic-async](https://leofavre.github.io/web-components-seo/html-dynamic-async) |
 
 
-### Custom HTML
+## Custom HTML
 
 | content          | tag definition | shadow DOM | link                                                                                            |
 |------------------|----------------|------------|-------------------------------------------------------------------------------------------------|

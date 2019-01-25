@@ -17,7 +17,7 @@ This website tests how regular and custom HTML tags are indexed by Google under 
 
 | content          | tag definition | shadow DOM | link                                                                                            |
 |------------------|----------------|------------|-------------------------------------------------------------------------------------------------|
-| static html      | undefined      | —          | [/noshadow-static](https://leofavre.github.io/web-components-seo/noshadow-static)               |
+| static html      | undefined      | —          | [/undefined-static](https://leofavre.github.io/web-components-seo/undefined-static)             |
 | static html      | immediate      | yes        | [/shadow-static-sync](https://leofavre.github.io/web-components-seo/shadow-static-sync)         |
 | static html      | lazy           | yes        | [/shadow-static-async](https://leofavre.github.io/web-components-seo/shadow-static-async)       |
 | sync javascript  | immediate      | no         | [/noshadow-dynamic-sync](https://leofavre.github.io/web-components-seo/noshadow-dynamic-sync)   |
